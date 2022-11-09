@@ -9,7 +9,7 @@
 The project sets out to create a version of the classic game 'Rock, Paper, Scissors' in the C# programming language.
 
 
-
+<h4>How to run and install</h4>
 The game is run in Microsoft Visual Studio, Visual Studio Code (With the C# extension) or any other IDE that supports C#. 
 
 In order to do this, you will need to have the latest version of the .NET Framework installed.
