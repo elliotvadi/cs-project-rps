@@ -22,7 +22,7 @@ Upon running the program, you will be prompted to input your name. This will ens
 
 The program will randomly choose an opponent from a list of *human* names. This name will stick for the duration of the game. 
 
-![](C:\Users\elliot.vadi\AppData\Roaming\marktext\images\2022-11-09-13-56-52-image.png)
+![](https://media.discordapp.net/attachments/748131370722918490/1039887636145393684/image.png)
 
 You will be promted to choose one of three moves; rock, paper or scissor. Upon doing so, the opponent will choose their move, after which the program will decide who wins the round. 
 
